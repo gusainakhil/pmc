@@ -1,0 +1,770 @@
+[04-Oct-2025 15:07:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Oct-2025 15:07:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Oct-2025 17:33:14 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Oct-2025 17:33:14 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Oct-2025 17:43:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Oct-2025 17:43:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Oct-2025 08:45:14 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Oct-2025 08:45:14 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Oct-2025 11:02:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Oct-2025 11:02:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Oct-2025 11:11:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Oct-2025 11:11:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Oct-2025 17:14:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Oct-2025 17:14:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[12-Oct-2025 08:28:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[12-Oct-2025 08:28:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[12-Oct-2025 08:28:25 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[12-Oct-2025 08:28:25 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[17-Oct-2025 09:57:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[17-Oct-2025 09:57:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[19-Oct-2025 16:40:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[19-Oct-2025 16:40:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[28-Oct-2025 06:48:30 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[28-Oct-2025 06:48:30 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 06:14:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 06:14:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 06:55:57 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[29-Oct-2025 06:55:57 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[29-Oct-2025 06:55:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 06:55:57 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[29-Oct-2025 06:55:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[29-Oct-2025 07:09:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 07:09:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 07:18:17 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 07:18:17 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 07:21:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 07:21:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 07:22:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 07:22:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 07:22:41 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 07:22:41 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 07:23:10 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 07:23:10 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 08:58:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 08:58:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 09:00:32 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 09:00:32 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 10:38:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 10:38:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 10:38:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 10:38:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 10:40:16 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 10:40:16 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 10:41:15 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 10:41:15 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:05:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:05:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:06:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:06:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:10:08 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:10:08 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:10:08 UTC] PHP Fatal error:  Uncaught Exception: Station ID is required in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/get_feedback_psI_function.php:15
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php(64): calculate_feedback_psi_stationwise(Object(mysqli), 0, '2025-10-01', '2025-10-31')
+#1 {main}
+  thrown in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/get_feedback_psI_function.php on line 15
+[29-Oct-2025 11:12:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:12:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:12:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:12:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:13:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:13:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:14:32 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:14:32 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:15:23 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:15:23 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:15:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:15:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:16:15 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:16:15 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:16:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:16:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:19:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:19:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:20:13 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:20:13 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 11:20:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 11:20:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Oct-2025 12:20:31 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[29-Oct-2025 12:20:31 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[29-Oct-2025 12:20:31 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Oct-2025 12:20:31 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[29-Oct-2025 12:20:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[31-Oct-2025 05:40:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[31-Oct-2025 05:40:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[31-Oct-2025 07:16:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[31-Oct-2025 07:16:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Nov-2025 05:33:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 05:33:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Nov-2025 09:26:26 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 09:26:26 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Nov-2025 10:13:57 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/photo-report.php on line 16
+[03-Nov-2025 10:13:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/photo-report.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[03-Nov-2025 10:14:21 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 10:14:21 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 10:14:21 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 10:14:21 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 10:14:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[03-Nov-2025 10:14:50 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 10:14:50 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 10:14:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 10:14:50 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 10:14:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[03-Nov-2025 10:14:59 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 10:14:59 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 10:14:59 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 10:14:59 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 10:15:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[03-Nov-2025 10:25:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 10:25:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Nov-2025 11:41:38 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 11:41:38 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 11:41:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 11:41:38 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 11:41:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[03-Nov-2025 11:42:01 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 11:42:01 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 11:42:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 11:42:01 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 11:42:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[03-Nov-2025 11:42:05 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 11:42:05 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 11:42:05 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 11:42:05 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 11:42:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[03-Nov-2025 11:42:07 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[03-Nov-2025 11:42:07 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[03-Nov-2025 11:42:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Nov-2025 11:42:07 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[03-Nov-2025 11:42:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[05-Nov-2025 04:56:04 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Nov-2025 04:56:04 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Nov-2025 05:36:31 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[05-Nov-2025 05:36:31 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[05-Nov-2025 05:36:31 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Nov-2025 05:36:31 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[05-Nov-2025 05:36:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[05-Nov-2025 05:36:40 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[05-Nov-2025 05:36:40 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[05-Nov-2025 05:36:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Nov-2025 05:36:40 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[05-Nov-2025 05:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[05-Nov-2025 05:36:42 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[05-Nov-2025 05:36:42 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[05-Nov-2025 05:36:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Nov-2025 05:36:42 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[05-Nov-2025 05:36:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[05-Nov-2025 05:36:43 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[05-Nov-2025 05:36:43 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[05-Nov-2025 05:36:43 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Nov-2025 05:36:43 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[05-Nov-2025 05:36:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[07-Nov-2025 08:09:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[07-Nov-2025 08:09:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[11-Nov-2025 07:22:19 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[11-Nov-2025 07:22:19 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[11-Nov-2025 07:53:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[11-Nov-2025 07:53:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[11-Nov-2025 08:10:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[11-Nov-2025 08:10:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[11-Nov-2025 10:52:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[11-Nov-2025 10:52:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[13-Nov-2025 06:54:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[13-Nov-2025 06:54:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[13-Nov-2025 08:49:12 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[13-Nov-2025 08:49:12 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[13-Nov-2025 08:49:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[13-Nov-2025 08:49:12 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[13-Nov-2025 08:49:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[13-Nov-2025 08:49:35 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[13-Nov-2025 08:49:35 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[13-Nov-2025 08:49:35 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[13-Nov-2025 08:49:35 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[13-Nov-2025 08:49:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[13-Nov-2025 11:23:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[13-Nov-2025 11:23:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[13-Nov-2025 12:21:23 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[13-Nov-2025 12:21:23 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[13-Nov-2025 12:23:11 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:11 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:11 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:22 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:22 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:22 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:24 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:24 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:24 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:28 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:28 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:28 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:33 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:33 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:33 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:36 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:36 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:36 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:38 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:38 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:38 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:40 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:40 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:40 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:42 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:42 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:23:42 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:24:16 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:24:16 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:24:16 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:24:20 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:24:20 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[13-Nov-2025 12:24:20 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[14-Nov-2025 10:56:05 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[14-Nov-2025 10:56:05 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[18-Nov-2025 12:41:35 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[18-Nov-2025 12:41:35 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[19-Nov-2025 05:13:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[19-Nov-2025 05:13:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[20-Nov-2025 05:54:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[20-Nov-2025 05:54:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[20-Nov-2025 10:30:37 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[20-Nov-2025 10:30:37 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[21-Nov-2025 09:55:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[21-Nov-2025 09:55:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[21-Nov-2025 09:56:37 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[21-Nov-2025 09:56:37 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[21-Nov-2025 09:56:37 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[21-Nov-2025 09:56:37 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[21-Nov-2025 09:56:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[22-Nov-2025 05:49:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 05:49:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 09:41:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 09:41:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 10:08:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 10:08:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 11:04:25 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 11:04:25 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 11:24:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 11:24:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 11:28:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 11:28:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 11:49:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 11:49:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Nov-2025 15:34:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Nov-2025 15:34:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[26-Nov-2025 05:40:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[26-Nov-2025 05:40:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[26-Nov-2025 06:20:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[26-Nov-2025 06:20:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[26-Nov-2025 08:17:04 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[26-Nov-2025 08:17:04 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[26-Nov-2025 10:31:31 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[26-Nov-2025 10:31:31 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[26-Nov-2025 11:50:53 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise_summary.php on line 12
+[26-Nov-2025 11:50:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/head.php:1) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[26-Nov-2025 11:51:03 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise_summary.php on line 12
+[26-Nov-2025 11:51:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/head.php:1) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[26-Nov-2025 12:14:25 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise_summary.php on line 12
+[26-Nov-2025 12:14:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/head.php:1) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[28-Nov-2025 09:58:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[28-Nov-2025 09:58:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[01-Dec-2025 13:58:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[01-Dec-2025 13:58:57 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[01-Dec-2025 15:00:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[01-Dec-2025 15:00:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[01-Dec-2025 15:07:59 UTC] PHP Warning:  Undefined variable $weightagec in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/billing-invoice.php on line 220
+[02-Dec-2025 07:53:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[02-Dec-2025 07:53:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[02-Dec-2025 08:03:18 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[02-Dec-2025 08:03:18 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[02-Dec-2025 08:03:18 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[03-Dec-2025 05:09:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Dec-2025 05:09:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Dec-2025 05:21:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Dec-2025 05:21:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Dec-2025 06:54:37 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Dec-2025 06:54:37 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Dec-2025 05:43:12 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[04-Dec-2025 05:43:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[04-Dec-2025 05:43:18 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[04-Dec-2025 05:43:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[04-Dec-2025 05:43:22 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[04-Dec-2025 05:43:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[04-Dec-2025 06:12:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Dec-2025 06:12:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Dec-2025 06:40:21 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Dec-2025 06:40:21 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Dec-2025 06:41:18 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[04-Dec-2025 06:41:18 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[04-Dec-2025 06:41:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Dec-2025 06:41:18 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[04-Dec-2025 06:41:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[04-Dec-2025 06:41:24 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[04-Dec-2025 06:41:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[04-Dec-2025 06:42:50 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[04-Dec-2025 06:42:50 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[04-Dec-2025 06:42:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Dec-2025 06:42:50 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[04-Dec-2025 06:42:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[04-Dec-2025 07:01:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Dec-2025 07:01:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Dec-2025 11:31:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Dec-2025 11:31:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Dec-2025 08:26:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Dec-2025 08:26:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Dec-2025 09:38:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Dec-2025 09:38:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Dec-2025 10:13:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Dec-2025 10:13:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Dec-2025 11:43:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Dec-2025 11:43:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Dec-2025 15:50:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Dec-2025 15:50:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[06-Dec-2025 15:40:15 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[06-Dec-2025 15:40:15 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[06-Dec-2025 15:40:15 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[06-Dec-2025 15:40:15 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[06-Dec-2025 15:40:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[07-Dec-2025 15:04:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[07-Dec-2025 15:04:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 06:18:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 06:18:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 06:18:21 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 06:18:21 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 08:17:54 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[08-Dec-2025 08:17:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[08-Dec-2025 08:18:20 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[08-Dec-2025 08:18:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[08-Dec-2025 08:18:22 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[08-Dec-2025 08:18:22 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[08-Dec-2025 08:18:22 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 08:18:22 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[08-Dec-2025 08:18:22 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 08:24:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "tokenId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 237
+[08-Dec-2025 10:18:26 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[08-Dec-2025 10:18:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[08-Dec-2025 10:18:34 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[08-Dec-2025 10:18:34 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[08-Dec-2025 10:18:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 10:18:34 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[08-Dec-2025 10:18:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 10:28:55 UTC] PHP Fatal error:  Cannot redeclare findPosition() (previously declared in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:282) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 282
+[08-Dec-2025 10:40:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 10:40:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 10:41:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 10:41:43 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 10:41:43 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[08-Dec-2025 12:25:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[08-Dec-2025 12:25:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Dec-2025 10:03:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 10:03:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Dec-2025 11:52:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:52:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Dec-2025 11:53:47 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[09-Dec-2025 11:53:47 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[09-Dec-2025 11:53:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:53:47 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[09-Dec-2025 11:53:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[09-Dec-2025 11:54:06 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[09-Dec-2025 11:54:06 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[09-Dec-2025 11:54:06 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:54:06 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[09-Dec-2025 11:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[09-Dec-2025 11:54:35 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[09-Dec-2025 11:54:35 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[09-Dec-2025 11:54:35 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:54:35 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[09-Dec-2025 11:54:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[09-Dec-2025 11:54:47 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[09-Dec-2025 11:54:47 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[09-Dec-2025 11:54:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:54:47 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[09-Dec-2025 11:54:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[09-Dec-2025 11:55:12 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[09-Dec-2025 11:55:12 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[09-Dec-2025 11:55:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:55:12 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[09-Dec-2025 11:55:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[09-Dec-2025 11:55:14 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[09-Dec-2025 11:55:14 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[09-Dec-2025 11:55:14 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 11:55:14 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[09-Dec-2025 11:55:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[09-Dec-2025 14:34:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Dec-2025 14:34:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Dec-2025 14:47:11 UTC] PHP Parse error:  Unclosed '{' on line 166 in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 374
+[10-Dec-2025 06:08:59 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 06:08:59 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 06:40:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 06:40:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 07:47:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 07:47:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 09:38:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 09:38:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 10:32:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 10:32:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 10:39:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 10:39:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 11:11:27 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 11:11:27 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 11:13:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 11:13:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 11:25:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 11:25:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 11:30:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 11:30:09 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 12:02:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 12:02:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 12:15:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 12:15:34 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 12:15:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 12:15:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 12:22:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:22:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:22:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:26:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:26:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:26:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:26:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:26:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:29:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:29:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 12:29:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 452
+[10-Dec-2025 13:45:05 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[10-Dec-2025 13:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[10-Dec-2025 13:45:09 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance_summary_2.php on line 4
+[10-Dec-2025 13:45:09 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance_summary_2.php on line 5
+[10-Dec-2025 13:45:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance_summary_2.php:74) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[10-Dec-2025 13:45:16 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[10-Dec-2025 13:45:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[10-Dec-2025 13:46:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 13:46:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 16:34:07 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[10-Dec-2025 16:34:07 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[10-Dec-2025 16:34:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 16:34:07 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[10-Dec-2025 16:34:07 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Dec-2025 16:37:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Dec-2025 16:37:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[11-Dec-2025 05:53:02 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[11-Dec-2025 05:53:02 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[15-Dec-2025 06:51:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Dec-2025 06:51:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[15-Dec-2025 06:52:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Dec-2025 06:52:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Dec-2025 06:52:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[18-Dec-2025 08:46:13 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[18-Dec-2025 08:46:13 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[19-Dec-2025 05:44:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[19-Dec-2025 05:44:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[19-Dec-2025 10:24:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[19-Dec-2025 10:24:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[19-Dec-2025 11:41:04 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[19-Dec-2025 11:41:04 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[20-Dec-2025 05:37:30 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[20-Dec-2025 05:37:30 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[20-Dec-2025 07:17:42 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:18:14 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:18:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:18 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:20 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:21 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:22 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:23 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:24 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:25 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:27 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:28 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:19:29 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:19:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:20:39 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:20:41 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:21:54 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[20-Dec-2025 07:21:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[20-Dec-2025 07:21:56 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[20-Dec-2025 07:21:56 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[20-Dec-2025 07:21:56 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[20-Dec-2025 07:21:56 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[20-Dec-2025 07:21:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[22-Dec-2025 08:03:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Dec-2025 08:03:40 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Dec-2025 08:04:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Dec-2025 08:04:01 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Dec-2025 08:09:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Dec-2025 08:09:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[22-Dec-2025 09:34:28 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:28 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:28 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:34 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:34 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:34 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:39 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:39 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:34:39 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:10 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:10 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:10 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:14 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:14 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:14 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:18 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:18 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:18 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:55 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:55 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:55 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:59 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:59 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:35:59 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:36:07 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:36:07 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:36:07 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:36:08 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:36:08 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 09:36:08 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[22-Dec-2025 11:43:51 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[22-Dec-2025 11:43:51 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 02:29:32 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:32 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:32 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:38 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:38 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:38 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:55 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:55 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 02:29:55 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:40:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 08:40:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 08:43:02 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:02 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:02 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:07 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:07 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:07 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:25 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:25 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:43:25 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:44:16 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:44:16 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:44:16 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:44:20 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:44:20 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 08:44:20 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 09:22:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 09:22:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 09:51:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 09:51:38 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 09:52:10 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[23-Dec-2025 09:52:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[23-Dec-2025 09:53:00 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[23-Dec-2025 09:53:00 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[23-Dec-2025 09:53:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 09:53:00 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[23-Dec-2025 09:53:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[23-Dec-2025 09:53:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 09:53:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 11:23:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 11:23:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 11:24:17 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:24:17 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:24:17 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:24:25 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:24:25 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:24:25 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:29:55 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:29:55 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:29:55 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:10 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:10 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:10 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:13 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:13 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:13 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:19 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:19 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:31:19 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:32:44 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:32:44 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:32:44 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:32:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'all' for column `pmcbeatlemeco_db`.`baris_target`.`month` at row 1 in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php:362
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php(362): mysqli->query('INSERT INTO bar...')
+#1 {main}
+  thrown in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 362
+[23-Dec-2025 11:34:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 11:34:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 11:34:22 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 11:34:22 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 11:34:47 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:34:47 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:34:47 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:34:52 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:34:52 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:34:52 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:02 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:02 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:02 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:04 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:04 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:04 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:16 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:16 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:35:16 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:36:53 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:36:53 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:36:53 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:40:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[23-Dec-2025 11:40:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[23-Dec-2025 11:44:46 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:44:46 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:44:46 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:44:54 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:44:54 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:44:54 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:45:07 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:45:07 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:45:07 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:45:35 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:45:35 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:45:35 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:48:50 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:48:50 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:48:50 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:50:14 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:50:14 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:50:14 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:50:57 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:50:57 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[23-Dec-2025 11:50:57 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[24-Dec-2025 10:30:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 10:30:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 10:35:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 10:35:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 10:38:35 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[24-Dec-2025 10:38:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[24-Dec-2025 10:38:58 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 10:38:58 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 10:51:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 10:51:33 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 13:35:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 13:35:46 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 16:32:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 16:32:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 16:47:35 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 16:47:35 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[24-Dec-2025 17:41:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[24-Dec-2025 17:41:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[25-Dec-2025 05:11:27 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[25-Dec-2025 05:11:27 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[25-Dec-2025 05:13:45 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 15
+[25-Dec-2025 05:13:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php:5) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/header.php on line 8
+[25-Dec-2025 05:13:52 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[25-Dec-2025 05:13:52 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[25-Dec-2025 05:13:52 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[25-Dec-2025 05:13:52 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[25-Dec-2025 05:13:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[26-Dec-2025 16:58:30 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[26-Dec-2025 16:58:30 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[27-Dec-2025 06:01:05 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[27-Dec-2025 06:01:05 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[27-Dec-2025 06:01:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[27-Dec-2025 06:01:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[27-Dec-2025 06:02:09 UTC] PHP Warning:  Undefined variable $station in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[27-Dec-2025 06:02:09 UTC] PHP Warning:  Undefined variable $toDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[27-Dec-2025 06:02:09 UTC] PHP Warning:  Undefined variable $fromDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily-performance-target.php on line 23
+[27-Dec-2025 06:18:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[27-Dec-2025 06:18:12 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[27-Dec-2025 09:07:53 UTC] PHP Parse error:  Unclosed '{' on line 229 in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 391
+[27-Dec-2025 09:08:15 UTC] PHP Parse error:  Unclosed '{' on line 229 in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 391
+[27-Dec-2025 09:14:47 UTC] PHP Warning:  Undefined variable $datesArray in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:14:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:14:47 UTC] PHP Warning:  Undefined variable $currentDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:14:47 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:14:50 UTC] PHP Warning:  Undefined variable $datesArray in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:14:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:14:50 UTC] PHP Warning:  Undefined variable $currentDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:14:50 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:15:05 UTC] PHP Warning:  Undefined variable $datesArray in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:15:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:15:05 UTC] PHP Warning:  Undefined variable $currentDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:15:05 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:15:08 UTC] PHP Warning:  Undefined variable $datesArray in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:15:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 25
+[27-Dec-2025 09:15:08 UTC] PHP Warning:  Undefined variable $currentDate in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 09:15:08 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_performance.php on line 225
+[27-Dec-2025 10:28:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[27-Dec-2025 10:28:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[27-Dec-2025 10:52:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[27-Dec-2025 10:52:47 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Dec-2025 05:54:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Dec-2025 05:54:28 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[31-Dec-2025 09:35:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[31-Dec-2025 09:35:18 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[01-Jan-2026 10:58:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[01-Jan-2026 10:58:03 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[02-Jan-2026 19:52:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[02-Jan-2026 19:52:45 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Jan-2026 08:46:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Jan-2026 08:46:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Jan-2026 13:12:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Jan-2026 13:12:20 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Jan-2026 13:15:26 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Jan-2026 13:15:26 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Jan-2026 13:16:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Jan-2026 13:16:24 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Jan-2026 13:18:25 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[04-Jan-2026 13:18:25 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[04-Jan-2026 13:31:18 UTC] PHP Warning:  Undefined variable $tokenid in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 179
+[04-Jan-2026 13:37:21 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 173
+[04-Jan-2026 13:38:04 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 173
+[04-Jan-2026 13:38:05 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 173
+[04-Jan-2026 13:38:17 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 173
+[04-Jan-2026 13:40:43 UTC] PHP Parse error:  Unmatched '}' in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 362
+[04-Jan-2026 13:41:09 UTC] PHP Parse error:  Unmatched '}' in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise.php on line 360
+[04-Jan-2026 13:50:57 UTC] PHP Parse error:  syntax error, unexpected identifier "head", expecting "," or ";" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/daily_surprise_summary.php on line 346
+[05-Jan-2026 04:56:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Jan-2026 04:56:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[05-Jan-2026 17:14:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[05-Jan-2026 17:14:11 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[07-Jan-2026 09:49:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[07-Jan-2026 09:49:42 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[09-Jan-2026 11:48:44 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[09-Jan-2026 11:48:44 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[10-Jan-2026 09:53:17 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[10-Jan-2026 09:53:17 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[15-Jan-2026 12:38:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Jan-2026 12:38:36 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[15-Jan-2026 12:38:54 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 53
+[15-Jan-2026 12:38:54 UTC] PHP Warning:  Undefined array key "OrgID" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 54
+[15-Jan-2026 12:38:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Jan-2026 12:38:54 UTC] PHP Warning:  Undefined array key "stationId" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 206
+[15-Jan-2026 12:38:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php:213) in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 44
+[15-Jan-2026 12:45:16 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Jan-2026 12:45:16 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[15-Jan-2026 12:57:49 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Jan-2026 12:57:50 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[15-Jan-2026 13:05:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[15-Jan-2026 13:05:00 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[16-Jan-2026 09:28:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[16-Jan-2026 09:28:29 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[17-Jan-2026 10:22:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[17-Jan-2026 10:22:54 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[29-Jan-2026 16:57:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[29-Jan-2026 16:57:48 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54
+[03-Feb-2026 06:22:51 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/functions.php on line 56
+[03-Feb-2026 06:22:51 UTC] PHP Warning:  Undefined array key "daily_performance" in /home/pmcbeatlemeco/public_html/dashboard/user-dashboard/index.php on line 54

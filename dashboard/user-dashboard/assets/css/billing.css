@@ -1,0 +1,108 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 14px;
+            font-size: 14px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        .center {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 10px;
+            margin-top: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            font-size: 1em;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 6px 2px;
+            text-align: left;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+        .section {
+            margin-top: 10px;
+        }
+        .summary {
+            margin-top: 10px;
+            text-align: right;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 13px;
+        }
+        img {
+            max-width: 100px;
+            height: auto;
+            display: block;
+            margin: 0 auto 10px auto;
+        }
+        @media (max-width: 700px) {
+            .container {
+                padding: 10px;
+            }
+            table, thead, tbody, th, td, tr {
+                display: block;
+                width: 100%;
+            }
+            thead tr {
+                display: none;
+            }
+            tr {
+                margin-bottom: 15px;
+                border-bottom: 2px solid #eee;
+            }
+            td {
+                text-align: right;
+                padding-left: 50%;
+                position: relative;
+                border: none;
+                border-bottom: 1px solid #eee;
+            }
+            td:before {
+                position: absolute;
+                left: 10px;
+                top: 8px;
+                width: 45%;
+                white-space: nowrap;
+                font-weight: bold;
+                text-align: left;
+            }
+            /* Add labels for each cell */
+            table:nth-of-type(1) td:nth-of-type(1):before { content: "Description"; }
+            table:nth-of-type(1) td:nth-of-type(2):before { content: "Details"; }
+            table:nth-of-type(2) td:nth-of-type(1):before { content: "S.NO"; }
+            table:nth-of-type(2) td:nth-of-type(2):before { content: "EARNINGS"; }
+            table:nth-of-type(2) td:nth-of-type(3):before { content: "WEIGHTAGE"; }
+            table:nth-of-type(2) td:nth-of-type(4):before { content: "SCORED"; }
+            table:nth-of-type(2) td:nth-of-type(5):before { content: "AMOUNT"; }
+            table:nth-of-type(3) td:nth-of-type(1):before { content: "S.NO"; }
+            table:nth-of-type(3) td:nth-of-type(2):before { content: "DEDUCTIONS"; }
+            table:nth-of-type(3) td:nth-of-type(3):before { content: "AMOUNT"; }
+            .summary {
+                text-align: left;
+                font-size: 1em;
+            }
+        }
+        @media (max-width: 400px) {
+            body {
+                font-size: 12px;
+            }
+            .footer {
+                font-size: 11px;
+            }
+        }

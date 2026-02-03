@@ -1,0 +1,139 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.html");
+    src: url("../fonts/Flaticond41dd41d.html?#iefix") format("embedded-opentype"), url("../fonts/Flaticon-2.html") format("woff2"), url("../fonts/Flaticon-3.html") format("woff"), url("../fonts/Flaticon-4.html") format("truetype"), url("../fonts/Flaticon-5.html#Flaticon") format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon-5.html#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+}
+
+.flaticon-cheers:before {
+    content: "\f100";
+}
+
+.flaticon-dish:before {
+    content: "\f101";
+}
+
+.flaticon-shop:before {
+    content: "\f102";
+}
+
+.flaticon-spa:before {
+    content: "\f103";
+}
+
+.flaticon-find:before {
+    content: "\f104";
+}
+
+.flaticon-fast-food:before {
+    content: "\f105";
+}
+
+.flaticon-drama:before {
+    content: "\f106";
+}
+
+.flaticon-rising:before {
+    content: "\f107";
+}
+
+.flaticon-map:before {
+    content: "\f108";
+}
+
+.flaticon-list:before {
+    content: "\f109";
+}
+
+.flaticon-trophy:before {
+    content: "\f10a";
+}
+
+.flaticon-medal:before {
+    content: "\f10b";
+}
+
+.flaticon-team:before {
+    content: "\f10c";
+}
+
+.flaticon-list-1:before {
+    content: "\f10d";
+}
+
+.flaticon-appointment:before {
+    content: "\f10e";
+}
+
+.flaticon-support:before {
+    content: "\f10f";
+}
+
+.flaticon-find-1:before {
+    content: "\f110";
+}
+
+.flaticon-bed:before {
+    content: "\f111";
+}
+
+.flaticon-bed-1:before {
+    content: "\f112";
+}
+
+.flaticon-air-conditioner:before {
+    content: "\f113";
+}
+
+.flaticon-wifi:before {
+    content: "\f114";
+}
+
+.flaticon-computer-screen:before {
+    content: "\f115";
+}
+
+.flaticon-shower:before {
+    content: "\f116";
+}
+
+.flaticon-meal:before {
+    content: "\f117";
+}
+
+.flaticon-cutlery:before {
+    content: "\f118";
+}
+
+.flaticon-hotel:before {
+    content: "\f119";
+}
+
+.flaticon-layers:before {
+    content: "\f11a";
+}
+
+.flaticon-internet-explorer:before {
+    content: "\f11b";
+}
+
+.flaticon-bathtub:before {
+    content: "\f11c";
+}
+
+.flaticon-map-marker:before {
+    content: "\f11d";
+}

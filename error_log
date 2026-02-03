@@ -1,0 +1,152 @@
+[16-Oct-2025 11:24:03 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[16-Oct-2025 11:24:03 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[28-Oct-2025 06:40:05 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 36
+[28-Oct-2025 06:40:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 36
+[28-Oct-2025 06:40:05 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 37
+[28-Oct-2025 06:40:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 37
+[29-Oct-2025 07:06:22 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 36
+[29-Oct-2025 07:06:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 36
+[29-Oct-2025 07:06:22 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 37
+[29-Oct-2025 07:06:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 37
+[29-Oct-2025 11:08:16 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 36
+[29-Oct-2025 11:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 36
+[29-Oct-2025 11:08:16 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 37
+[29-Oct-2025 11:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 37
+[29-Oct-2025 11:09:45 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 36
+[29-Oct-2025 11:09:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 36
+[29-Oct-2025 11:09:45 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 37
+[29-Oct-2025 11:09:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 37
+[07-Nov-2025 01:17:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[25-Nov-2025 19:34:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[07-Dec-2025 08:17:50 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 36
+[07-Dec-2025 08:17:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 36
+[07-Dec-2025 08:17:50 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 37
+[07-Dec-2025 08:17:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 37
+[10-Dec-2025 01:50:45 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[10-Dec-2025 01:50:45 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[10-Dec-2025 02:36:30 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[10-Dec-2025 02:36:30 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[10-Dec-2025 11:12:49 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 36
+[10-Dec-2025 11:12:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 36
+[10-Dec-2025 11:12:49 UTC] PHP Warning:  Undefined variable $user in /home/pmcbeatlemeco/public_html/index.php on line 37
+[10-Dec-2025 11:12:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmcbeatlemeco/public_html/index.php on line 37
+[11-Dec-2025 03:26:25 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[11-Dec-2025 03:26:25 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[11-Dec-2025 20:53:28 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[11-Dec-2025 20:53:28 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[11-Dec-2025 23:00:25 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[11-Dec-2025 23:00:25 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[11-Dec-2025 23:51:08 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[11-Dec-2025 23:51:08 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Dec-2025 01:11:12 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[12-Dec-2025 01:11:12 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Dec-2025 10:17:52 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[12-Dec-2025 10:17:52 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Dec-2025 11:21:08 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[12-Dec-2025 11:21:08 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Dec-2025 14:58:50 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[12-Dec-2025 14:58:50 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Dec-2025 21:10:25 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[12-Dec-2025 21:10:25 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Dec-2025 22:34:08 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[12-Dec-2025 22:34:08 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[13-Dec-2025 06:53:56 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[13-Dec-2025 06:53:56 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[13-Dec-2025 07:28:38 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[13-Dec-2025 07:28:38 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[13-Dec-2025 07:54:52 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[13-Dec-2025 07:54:52 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[16-Dec-2025 15:12:47 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[16-Dec-2025 15:12:47 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[18-Dec-2025 10:20:16 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[18-Dec-2025 10:20:16 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[19-Dec-2025 12:19:05 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[19-Dec-2025 12:19:05 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[19-Dec-2025 19:05:32 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[19-Dec-2025 19:05:32 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[20-Dec-2025 08:06:47 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[20-Dec-2025 08:06:47 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[20-Dec-2025 08:23:49 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[20-Dec-2025 08:23:49 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[20-Dec-2025 17:41:05 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[20-Dec-2025 17:41:05 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[21-Dec-2025 00:15:11 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[21-Dec-2025 00:15:11 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[25-Dec-2025 16:21:08 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[25-Dec-2025 16:21:08 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[25-Dec-2025 17:25:29 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[25-Dec-2025 17:25:29 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[29-Dec-2025 14:17:43 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[29-Dec-2025 14:17:43 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[02-Jan-2026 21:31:50 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[02-Jan-2026 21:31:50 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[06-Jan-2026 09:54:51 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[06-Jan-2026 09:54:51 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[08-Jan-2026 16:55:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[08-Jan-2026 16:55:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[11-Jan-2026 06:28:39 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[11-Jan-2026 06:28:39 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[11-Jan-2026 17:14:31 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[11-Jan-2026 17:14:31 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[12-Jan-2026 19:34:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[12-Jan-2026 19:34:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[15-Jan-2026 13:04:55 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[15-Jan-2026 13:04:55 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #1 ($password) of type string is deprecated in /home/pmcbeatlemeco/public_html/index.php on line 26
+[19-Jan-2026 06:22:05 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[19-Jan-2026 06:22:05 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[19-Jan-2026 06:27:33 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[19-Jan-2026 06:27:33 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[20-Jan-2026 11:04:12 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[20-Jan-2026 11:04:12 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[27-Jan-2026 06:42:47 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[27-Jan-2026 06:42:47 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[27-Jan-2026 11:02:17 UTC] PHP Warning:  Undefined array key "username" in /home/pmcbeatlemeco/public_html/index.php on line 8
+[27-Jan-2026 11:02:17 UTC] PHP Warning:  Undefined array key "password" in /home/pmcbeatlemeco/public_html/index.php on line 9
+[29-Jan-2026 19:34:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[29-Jan-2026 19:34:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16
+[29-Jan-2026 19:34:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/pmcbeatlemeco/public_html/connection.php:16
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/connection.php(16): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', Object(SensitiveParameterValue), 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/index.php(5): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/connection.php on line 16

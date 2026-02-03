@@ -1,0 +1,738 @@
+[04-Oct-2025 15:05:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pmcbeatlemeco_user'@'localhost' (using password: YES) in /home/pmcbeatlemeco/public_html/division/connection.php:15
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/division/connection.php(15): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', 'Aksh@9412', 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/division/dashboard.php(4): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/division/connection.php on line 15
+[04-Oct-2025 15:05:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pmcbeatlemeco_user'@'localhost' (using password: YES) in /home/pmcbeatlemeco/public_html/division/connection.php:15
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/division/connection.php(15): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', 'Aksh@9412', 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/division/dashboard.php(4): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/division/connection.php on line 15
+[04-Oct-2025 15:06:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pmcbeatlemeco_user'@'localhost' (using password: YES) in /home/pmcbeatlemeco/public_html/division/connection.php:15
+Stack trace:
+#0 /home/pmcbeatlemeco/public_html/division/connection.php(15): mysqli->__construct('localhost', 'pmcbeatlemeco_u...', 'Aksh@9412', 'pmcbeatlemeco_d...')
+#1 /home/pmcbeatlemeco/public_html/division/dashboard.php(4): include('/home/pmcbeatle...')
+#2 {main}
+  thrown in /home/pmcbeatlemeco/public_html/division/connection.php on line 15
+[04-Oct-2025 15:07:30 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 15:07:30 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 15:07:30 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 15:07:30 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 15:07:30 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Oct-2025 17:16:26 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:16:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:16:26 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:16:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:16:26 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Oct-2025 17:33:05 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:33:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:33:05 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:33:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:33:05 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Oct-2025 17:34:23 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:34:23 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:34:23 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:34:23 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:34:23 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Oct-2025 17:41:24 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:41:24 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:41:24 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:41:24 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:41:24 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Oct-2025 17:43:17 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:43:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Oct-2025 17:43:17 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:43:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Oct-2025 17:43:17 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Oct-2025 17:43:30 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[04-Oct-2025 17:43:30 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[09-Oct-2025 08:00:32 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 08:00:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 08:00:32 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 08:00:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 08:00:32 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Oct-2025 08:24:07 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 08:24:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 08:24:07 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 08:24:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 08:24:07 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Oct-2025 11:02:45 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 11:02:45 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 11:02:45 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 11:02:45 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 11:02:45 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Oct-2025 11:03:35 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 11:03:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 11:03:35 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 11:03:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 11:03:35 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Oct-2025 11:10:49 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 11:10:49 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 11:10:49 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 11:10:49 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 11:10:49 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Oct-2025 17:13:56 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 17:13:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Oct-2025 17:13:56 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 17:13:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Oct-2025 17:13:56 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[17-Oct-2025 09:34:35 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[17-Oct-2025 09:34:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[17-Oct-2025 09:34:35 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[17-Oct-2025 09:34:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[17-Oct-2025 09:34:35 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[17-Oct-2025 09:34:40 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[17-Oct-2025 09:34:40 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[17-Oct-2025 09:51:52 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[17-Oct-2025 09:51:52 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[29-Oct-2025 11:09:26 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[29-Oct-2025 11:09:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[29-Oct-2025 11:09:26 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[29-Oct-2025 11:09:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[29-Oct-2025 11:09:26 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[29-Oct-2025 11:09:42 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:09:42 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:10:34 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[29-Oct-2025 11:10:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[29-Oct-2025 11:10:34 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[29-Oct-2025 11:10:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[29-Oct-2025 11:10:34 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[29-Oct-2025 11:10:50 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:10:50 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:11:37 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:11:37 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:11:39 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:11:39 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:11:44 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:11:44 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:12:01 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:12:01 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:12:05 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:12:05 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:12:15 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:12:15 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[29-Oct-2025 11:13:30 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[29-Oct-2025 11:13:30 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[12-Nov-2025 11:32:25 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 11:32:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 11:32:25 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 11:32:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 11:32:25 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[12-Nov-2025 11:32:52 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 11:32:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 11:32:52 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 11:32:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 11:32:52 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[12-Nov-2025 11:32:55 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 11:32:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 11:32:55 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 11:32:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 11:32:55 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[12-Nov-2025 18:42:16 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 18:42:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Nov-2025 18:42:16 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 18:42:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Nov-2025 18:42:16 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[13-Nov-2025 09:20:25 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[13-Nov-2025 09:20:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[13-Nov-2025 09:20:25 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[13-Nov-2025 09:20:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[13-Nov-2025 09:20:25 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[13-Nov-2025 12:20:50 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[13-Nov-2025 12:20:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[13-Nov-2025 12:20:50 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[13-Nov-2025 12:20:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[13-Nov-2025 12:20:50 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[14-Nov-2025 12:27:28 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[14-Nov-2025 12:27:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[14-Nov-2025 12:27:28 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[14-Nov-2025 12:27:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[14-Nov-2025 12:27:28 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[14-Nov-2025 12:28:12 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[14-Nov-2025 12:28:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[14-Nov-2025 12:28:12 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[14-Nov-2025 12:28:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[14-Nov-2025 12:28:12 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[20-Nov-2025 05:54:16 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[20-Nov-2025 05:54:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[20-Nov-2025 05:54:16 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[20-Nov-2025 05:54:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[20-Nov-2025 05:54:16 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Nov-2025 11:27:47 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 11:27:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 11:27:47 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 11:27:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 11:27:47 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Nov-2025 11:49:25 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 11:49:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 11:49:25 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 11:49:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 11:49:25 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Nov-2025 11:49:27 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 11:49:27 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 11:49:27 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 11:49:27 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 11:49:27 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Nov-2025 15:34:38 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 15:34:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Nov-2025 15:34:38 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 15:34:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Nov-2025 15:34:38 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[26-Nov-2025 06:18:22 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[26-Nov-2025 06:18:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[26-Nov-2025 06:18:22 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[26-Nov-2025 06:18:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[26-Nov-2025 06:18:22 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[01-Dec-2025 13:16:14 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 13:16:14 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 13:16:14 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 13:16:14 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 13:16:14 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[01-Dec-2025 13:34:34 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 13:34:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 13:34:34 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 13:34:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 13:34:34 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[01-Dec-2025 13:35:11 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[01-Dec-2025 13:35:11 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[01-Dec-2025 13:35:19 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[01-Dec-2025 13:35:19 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[01-Dec-2025 13:35:37 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 13:35:37 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 13:35:37 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 13:35:37 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 13:35:37 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[01-Dec-2025 13:47:12 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[01-Dec-2025 13:47:12 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[01-Dec-2025 13:58:36 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[01-Dec-2025 13:58:36 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[01-Dec-2025 15:00:35 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 15:00:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[01-Dec-2025 15:00:35 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 15:00:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[01-Dec-2025 15:00:35 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[01-Dec-2025 15:08:38 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[01-Dec-2025 15:08:38 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[02-Dec-2025 07:19:07 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Dec-2025 07:19:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Dec-2025 07:19:07 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Dec-2025 07:19:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Dec-2025 07:19:07 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[02-Dec-2025 07:52:45 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Dec-2025 07:52:45 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Dec-2025 07:52:45 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Dec-2025 07:52:45 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Dec-2025 07:52:45 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Dec-2025 07:29:16 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:29:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:29:16 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:29:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:29:16 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Dec-2025 07:32:57 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:32:57 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:32:57 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:32:57 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:32:57 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Dec-2025 07:32:59 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[05-Dec-2025 07:32:59 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[05-Dec-2025 07:33:28 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:33:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:33:28 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:33:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:33:28 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Dec-2025 07:34:08 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:34:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:34:08 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:34:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:37:19 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:37:19 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 07:37:19 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 07:37:19 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 08:26:00 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 08:26:00 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 08:26:00 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 08:26:00 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 08:26:00 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Dec-2025 08:26:11 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 08:26:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 08:26:11 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 08:26:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 08:26:11 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Dec-2025 10:00:17 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 10:00:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Dec-2025 10:00:17 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 10:00:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Dec-2025 10:00:17 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[07-Dec-2025 15:04:42 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[07-Dec-2025 15:04:42 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[07-Dec-2025 15:04:42 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[07-Dec-2025 15:04:42 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[07-Dec-2025 15:04:42 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[08-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 06:17:58 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 06:17:58 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[08-Dec-2025 06:18:07 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 06:18:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 06:18:07 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 06:18:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 06:18:07 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[08-Dec-2025 06:18:08 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 06:18:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 06:18:08 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 06:18:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 06:18:08 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[08-Dec-2025 10:41:34 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 10:41:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 10:41:34 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 10:41:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 10:41:34 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[08-Dec-2025 12:25:50 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 12:25:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[08-Dec-2025 12:25:50 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 12:25:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[08-Dec-2025 12:25:50 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Dec-2025 14:34:33 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Dec-2025 14:34:33 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[09-Dec-2025 14:34:33 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Dec-2025 14:34:33 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[09-Dec-2025 14:34:33 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[09-Dec-2025 14:34:36 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[09-Dec-2025 14:34:36 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[10-Dec-2025 10:18:53 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 10:18:53 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 10:18:53 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 10:18:53 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 10:18:53 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Dec-2025 11:13:24 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 11:13:24 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 11:13:24 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 11:13:24 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 11:13:24 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Dec-2025 12:15:43 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 12:15:43 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 12:15:43 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 12:15:43 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 12:15:43 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Dec-2025 13:45:34 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 13:45:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 13:45:34 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 13:45:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 13:45:34 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Dec-2025 16:37:44 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 16:37:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 16:37:44 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 16:37:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 16:37:44 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Dec-2025 16:56:55 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 16:56:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Dec-2025 16:56:55 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 16:56:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Dec-2025 16:56:55 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[12-Dec-2025 11:14:31 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Dec-2025 11:14:31 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Dec-2025 11:14:31 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Dec-2025 11:14:31 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Dec-2025 11:14:31 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[12-Dec-2025 18:31:47 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Dec-2025 18:31:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[12-Dec-2025 18:31:47 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Dec-2025 18:31:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[12-Dec-2025 18:31:47 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Dec-2025 08:06:25 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:06:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:06:25 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:06:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:06:25 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Dec-2025 08:06:50 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:06:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:06:50 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:06:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:06:50 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Dec-2025 08:08:19 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[22-Dec-2025 08:08:19 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[22-Dec-2025 08:08:19 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[22-Dec-2025 08:08:19 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[22-Dec-2025 08:08:28 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[22-Dec-2025 08:08:28 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[22-Dec-2025 08:08:31 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:08:31 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:08:31 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:08:31 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:08:31 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[22-Dec-2025 08:11:49 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:11:49 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[22-Dec-2025 08:11:49 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:11:49 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[22-Dec-2025 08:11:49 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[23-Dec-2025 08:40:06 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 08:40:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 08:40:06 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 08:40:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 08:40:06 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[23-Dec-2025 08:40:07 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 08:40:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 08:40:07 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 08:40:07 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 08:40:07 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[23-Dec-2025 11:23:34 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 11:23:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 11:23:34 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 11:23:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 11:23:34 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[23-Dec-2025 11:34:03 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 11:34:03 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 11:34:03 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 11:34:03 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 11:34:03 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[23-Dec-2025 11:34:15 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 11:34:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 11:34:15 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 11:34:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 11:34:15 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[23-Dec-2025 11:42:42 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[23-Dec-2025 11:42:42 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[23-Dec-2025 11:42:54 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[23-Dec-2025 11:42:54 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[23-Dec-2025 11:43:03 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[23-Dec-2025 11:43:03 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[23-Dec-2025 12:45:13 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 12:45:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[23-Dec-2025 12:45:13 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 12:45:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[23-Dec-2025 12:45:13 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 09:16:10 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 09:16:10 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 09:16:10 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 09:16:10 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 09:16:10 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 10:35:02 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 10:35:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 10:35:02 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 10:35:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 10:35:02 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 13:35:40 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 13:35:40 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 13:35:40 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 13:35:40 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 13:35:40 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 16:32:39 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 16:32:39 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 16:32:39 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 16:32:39 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 16:32:39 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 16:47:27 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 16:47:27 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 16:47:27 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 16:47:27 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 16:47:27 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 17:39:44 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:39:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:39:44 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:39:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:39:53 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:39:53 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:41:04 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:41:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:41:04 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:41:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:41:04 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[24-Dec-2025 17:42:13 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:42:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:42:13 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:42:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:44:25 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:44:25 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:44:29 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[24-Dec-2025 17:44:29 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/edit-chi.php on line 520
+[24-Dec-2025 17:44:44 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:44:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:44:44 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:44:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:44:59 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:44:59 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:44:59 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:44:59 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:01 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:45:01 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:45:01 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:01 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:20 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:20 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:21 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:21 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:23 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:23 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:29 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:45:29 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:45:29 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:29 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:32 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:45:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:45:32 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:45:34 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:34 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:36 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:45:36 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:45:38 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:38 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:38 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:45:38 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:45:43 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:43 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:45:55 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:45:55 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:45:59 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:45:59 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:10 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:10 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:14 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:14 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:18 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:18 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:20 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:20 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:21 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:21 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:46:24 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:24 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:26 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:46:26 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:46:27 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:27 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:31 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:31 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:33 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:33 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:34 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:34 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:37 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:37 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:40 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:40 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:42 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:42 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:43 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:43 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:47 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:47 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:47 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:47 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:49 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:49 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:49 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:49 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:53 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:53 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:53 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:53 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:55 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:55 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:57 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:46:57 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:00 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:00 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:00 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:00 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:05 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:05 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:06 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:06 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:08 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:08 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:09 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:09 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:10 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:10 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:21 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:21 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:24 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:24 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:34 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:34 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:36 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:36 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:37 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:37 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:38 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:38 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:41 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:41 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:41 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:41 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:47 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:47 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:49 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:49 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:50 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:50 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:52 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:47:52 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:47:53 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:53 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:55 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:55 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:47:55 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:55 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:56 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:47:56 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:47:58 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:47:58 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[24-Dec-2025 17:47:59 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:47:59 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:48:05 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:48:05 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:48:08 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:48:08 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[24-Dec-2025 17:48:11 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:48:11 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[24-Dec-2025 17:48:17 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:48:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:48:17 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:48:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:48:51 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:48:51 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:48:51 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:48:51 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:48:56 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:48:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[24-Dec-2025 17:48:56 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[24-Dec-2025 17:48:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[26-Dec-2025 16:58:15 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[26-Dec-2025 16:58:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[26-Dec-2025 16:58:15 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[26-Dec-2025 16:58:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[26-Dec-2025 16:58:15 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[27-Dec-2025 06:01:32 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[27-Dec-2025 06:01:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[27-Dec-2025 06:01:32 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[27-Dec-2025 06:01:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[27-Dec-2025 06:01:32 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[27-Dec-2025 06:01:55 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[27-Dec-2025 06:01:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[27-Dec-2025 06:01:55 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[27-Dec-2025 06:01:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[27-Dec-2025 06:01:55 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[27-Dec-2025 15:20:21 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[27-Dec-2025 15:20:21 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[27-Dec-2025 15:20:21 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[27-Dec-2025 15:20:21 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[27-Dec-2025 15:20:21 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[02-Jan-2026 19:52:28 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Jan-2026 19:52:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Jan-2026 19:52:28 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Jan-2026 19:52:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Jan-2026 19:52:28 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[02-Jan-2026 19:52:33 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Jan-2026 19:52:33 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[02-Jan-2026 19:52:33 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Jan-2026 19:52:33 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[02-Jan-2026 19:52:33 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Jan-2026 08:46:36 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 08:46:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 08:46:36 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 08:46:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 08:46:36 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Jan-2026 13:12:16 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 13:12:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 13:12:16 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 13:12:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 13:12:16 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Jan-2026 13:17:47 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 13:17:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 13:17:47 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 13:17:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 13:17:47 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Jan-2026 13:53:25 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 13:53:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 13:53:25 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 13:53:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 13:53:25 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[04-Jan-2026 17:02:01 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 17:02:01 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[04-Jan-2026 17:02:01 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 17:02:01 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[04-Jan-2026 17:02:01 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Jan-2026 04:50:38 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Jan-2026 04:50:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Jan-2026 04:50:38 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Jan-2026 04:50:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Jan-2026 04:50:38 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Jan-2026 04:55:54 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Jan-2026 04:55:54 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Jan-2026 04:55:54 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Jan-2026 04:55:54 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Jan-2026 04:55:54 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[05-Jan-2026 17:13:59 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Jan-2026 17:13:59 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[05-Jan-2026 17:13:59 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Jan-2026 17:13:59 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[05-Jan-2026 17:13:59 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Jan-2026 06:42:13 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Jan-2026 06:42:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Jan-2026 06:42:13 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Jan-2026 06:42:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Jan-2026 06:42:13 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Jan-2026 06:47:56 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Jan-2026 06:47:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Jan-2026 06:47:56 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Jan-2026 06:47:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Jan-2026 06:47:56 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[10-Jan-2026 06:49:26 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Jan-2026 06:49:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[10-Jan-2026 06:49:26 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Jan-2026 06:49:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[10-Jan-2026 06:49:26 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[15-Jan-2026 12:44:52 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 12:44:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 12:44:52 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 12:44:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 12:44:52 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[15-Jan-2026 12:47:20 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 12:47:20 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 12:47:20 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 12:47:20 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 12:47:20 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[15-Jan-2026 13:23:52 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:23:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:23:52 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:23:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:23:52 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[15-Jan-2026 13:24:34 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[15-Jan-2026 13:24:34 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[15-Jan-2026 13:25:23 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[15-Jan-2026 13:25:23 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-chi.php on line 434
+[15-Jan-2026 13:25:30 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[15-Jan-2026 13:25:30 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[15-Jan-2026 13:25:46 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[15-Jan-2026 13:25:46 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[15-Jan-2026 13:26:33 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[15-Jan-2026 13:26:33 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-contractor.php on line 434
+[15-Jan-2026 13:30:16 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:30:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:30:16 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:30:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:30:26 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:30:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:30:26 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:30:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:31:02 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:31:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[15-Jan-2026 13:31:02 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:31:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[15-Jan-2026 13:31:02 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[16-Jan-2026 12:12:29 UTC] PHP Warning:  Undefined variable $total_manpower in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[16-Jan-2026 12:12:29 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 827
+[16-Jan-2026 12:12:29 UTC] PHP Warning:  Undefined variable $total_chemical in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[16-Jan-2026 12:12:29 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 860
+[16-Jan-2026 12:12:29 UTC] PHP Warning:  Undefined array key "DivisionId" in /home/pmcbeatlemeco/public_html/division/dashboard.php on line 904
+[16-Jan-2026 12:16:34 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[16-Jan-2026 12:16:34 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[16-Jan-2026 12:21:04 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[16-Jan-2026 12:21:04 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[16-Jan-2026 12:24:00 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434
+[16-Jan-2026 12:24:00 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pmcbeatlemeco/public_html/division/create-auditor.php on line 434

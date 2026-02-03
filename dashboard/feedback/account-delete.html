@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>User Account Deletion Request - Feedback App</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .delete-card {
+      max-width: 600px;
+      margin: 50px auto;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .form-check-label {
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card delete-card p-4 bg-white">
+      <h3 class="text-center text-danger mb-3">Account Deletion Request</h3>
+      <p class="text-muted text-center">We're sorry to see you go. Please fill out the form below to request account deletion from the Feedback App.</p>
+      
+      <form action="" method="POST">
+        <div class="mb-3">
+          <label for="fullName" class="form-label">Full Name</label>
+          <input type="text" class="form-control" id="fullName" name="fullName" required>
+        </div>
+
+        <div class="mb-3">
+          <label for="emailAddress" class="form-label">Email Address</label>
+          <input type="email" class="form-control" id="emailAddress" name="email" required>
+        </div>
+
+        <div class="mb-3">
+          <label for="reason" class="form-label">Reason for Deletion (optional)</label>
+          <textarea class="form-control" id="reason" name="reason" rows="4" placeholder="Let us know why you're leaving..."></textarea>
+        </div>
+
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="confirmDelete" name="confirm" required>
+          <label class="form-check-label" for="confirmDelete">
+            I understand that this action is permanent and my data will be deleted.
+          </label>
+        </div>
+
+        <div class="d-grid">
+          <button type="submit" class="btn btn-danger">Submit Deletion Request</button>
+        </div>
+      </form>
+
+      <p class="text-center mt-3">
+        <a href="./" class="text-decoration-none">Back to Home</a>
+      </p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

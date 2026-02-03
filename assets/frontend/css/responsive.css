@@ -1,0 +1,378 @@
+@media (max-width: 1299px) {
+    .slider-wrap .swiper-button-next,
+    .slider-wrap .swiper-button-prev {
+        margin-top: 0;
+        position: relative;
+        top: 0;
+        left: auto;
+        right: auto;
+        display: inline-block;
+        margin: 30px 5px 0;
+    }
+    .service-box2 {
+        width: calc(100% / 3);
+    }
+    .s-icon-box i {
+        font-size: 50px;
+        height: 74px;
+        width: 74px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .steps {
+        border-radius: 0;
+        padding: 30px 28px;
+    }
+    .head-top-one:after {
+        left: -20%;
+        width: 500px;
+        -webkit-transform: skew(0);
+        transform: skew(0);
+        -moz-transform: skew(0);
+        -ms-transform: skew(0);
+        -o-transform: skew(0);
+    }
+    .about-2::after {
+        display: none;
+    }
+    .vid-box2 {
+        text-align: center;
+    }
+    .post-meta li {
+        padding: 0 12px;
+    }
+    .contact-left {
+        padding: 40px;
+        flex: 0 0 100%;
+        border-right: 0;
+        border-bottom: 1px solid #e1e1e1;
+    }
+    .contact-right {
+        padding: 40px;
+        flex: 0 0 100%;
+    }
+}
+
+@media (min-width:1200px) {
+    .steps-section [class*='col-']:nth-child(1) .steps:before {
+        background-image: url(../img/home/shape1.html);
+        top: -60px;
+    }
+    .steps-section [class*='col-']:nth-child(2) .steps:before {
+        background-image: url(../img/home/shape2.html);
+        bottom: -60px;
+    }
+    .steps-section::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        background-image: url(../img/home/women-bg.html);
+        background-repeat: no-repeat;
+        background-position: left bottom;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        bottom: 0;
+    }
+    .steps-wrap {
+        margin-top: 60px;
+        margin-bottom: 60px
+    }
+    .list-first {
+        width: 50%;
+    }
+    .list-map {
+        width: 50%;
+    }
+    .list-first {
+        padding: 70px;
+    }
+    .list-map {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        height: 100%;
+        right: 0;
+    }
+}
+
+@media (max-width: 991px) {
+    .banner-content h2 {
+        font-size: 20px;
+    }
+    button.btn.btn-one.btn-anim.w-100 {
+        width: 129px !important;
+    }
+    .main-banner-2 .banner-content {
+        padding: 109px 0 29px 0;
+    }
+    div#intro_search h5 {
+        font-size: 15px;
+    }
+    i.fab.fa-whatsapp-square {
+        font-size: 48px;
+        width: 50px;
+        height: 50px;
+    }
+    a.float_left {
+        padding: 3px 7px;
+    }
+    .logo.my-1 img {
+        width: 142px;
+    }
+    .affix.sticky-menu {
+        padding: 0px 0;
+    }
+    .ctg-item .icon-box {
+        padding: 25px 0;
+    }
+    .pa-10 {
+        padding: 6px 0px !important;
+    }
+    img.foot-logo.mb-4 {
+        width: 155px;
+    }
+    .float,
+    .float_left {
+        bottom: 91px;
+    }
+    .m_pa_06 {
+        padding: 0 6px;
+    }
+    img.cst_icon {
+        width: 40px;
+    }
+    .footer .foot-top {
+        padding: 36px 0px 0px 0px;
+    }
+    .banner-content h2 {
+        margin: 0px !important;
+    }
+    li.nav-item.d-lg-block.d-none {
+        display: block !important;
+    }
+    li.nav-item.d-lg-block.d-none a {
+        line-height: 0.5;
+    }
+    li#intro_login {
+        display: block !important;
+        margin-bottom: 10px;
+    }
+    a.btn.btn-one.btn-anim.br-5.px-3.nav-btn {
+        line-height: 0.5;
+    }
+    .tab-content {
+        margin-bottom: 50px;
+    }
+    .page-banner {
+        padding: 32px 0;
+        padding-top: 89px;
+    }
+    .sp-100 {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .pb-5,
+    .py-5 {
+        padding-bottom: 0rem !important;
+    }
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+    }
+    .mb-5,
+    .my-5 {
+        margin-bottom: 0rem !important;
+    }
+    .mt-5,
+    .my-5 {
+        margin-top: 0rem !important;
+    }
+    img.center-block.play_store_btn {
+        margin-bottom: 45px;
+    }
+    form.banner-form.mt-5 {
+        margin-top: 25px !important;
+    }
+    /***********************mehul top css***************/
+    h3 {
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 40px;
+    }
+    .navbar-nav .nav-item .mega-heading {
+        color: #5aaf29;
+        padding: 10px;
+        display: block;
+        pointer-events: none;
+    }
+    .header-one:after {
+        display: none;
+    }
+    .navbar-nav .nav-item a,
+    .navbar-nav .dropdown-item a,
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+    .programs-slider-one {
+        height: 458px;
+    }
+    .menu-two .navbar-collapse {
+        background-color: #fff;
+    }
+    .theme-header-two .show {
+        margin-bottom: 10px;
+    }
+    .socials-header {
+        margin: 0;
+    }
+    .head-top {
+        padding: 10px 0;
+    }
+    .sidebar {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 992px) {
+    .contact-box {
+        margin-bottom: -80px;
+    }
+    .app-section {
+        padding: 60px 0;
+    }
+    .counters [class*=col-]:last-child .counter-box::after {
+        position: absolute;
+        content: '';
+        background-color: #ff3a54;
+        height: 7px;
+        width: 7px;
+        right: -16px;
+        top: 46.5%;
+        border-radius: 50%;
+    }
+    .counters [class*=col-]:first-child .counter-box::after {
+        position: absolute;
+        content: '';
+        background-color: #ff3a54;
+        height: 7px;
+        width: 7px;
+        left: -16px;
+        top: 46.5%;
+        border-radius: 50%;
+    }
+    .login-section::after {
+        position: absolute;
+        content: '';
+        left: 0;
+        top: 0;
+        width: calc(50% - 15px);
+        height: 100%;
+        background-image: url(../img/pages/login-bg.html);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 767px) {}
+
+@media (max-width: 575px) {
+    .programs-slider-one .swiper-slide img {
+        max-width: 230px;
+        width: 100%;
+    }
+    .popular-list-slider .slick-dots::after {
+        width: 100%;
+        left: 0;
+    }
+    .pagination span.sep::after {
+        display: none;
+    }
+    .counter-box .icon-box::after {
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+    .comment-author .avatar {
+        width: 70px;
+    }
+    .comment-body {
+        padding-left: 90px;
+    }
+    .children {
+        padding-left: 60px;
+    }
+    .general-listing .listing-content {
+        padding: 20px 10px 10px;
+    }
+    .review-box .image-holder img {
+        width: 60px;
+    }
+}
+
+@media (min-width: 576px) {
+    .popular-list-slider.slick-slider .slick-list {
+        overflow: visible;
+        margin: 0 -15px;
+    }
+    .listing-list-view .listing-item {
+        display: flex;
+    }
+    .listing-list-view .listing-item .img-list {
+        flex: 3;
+    }
+    .listing-list-view .listing-item .list-content {
+        flex: 3;
+        padding: 10px 15px 14px;
+        align-self: center;
+    }
+    .listing-list-view .listing-item .img-holder {
+        height: 100%;
+    }
+    .listing-list-view .listing-item .img-list img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .general-listing {
+        display: flex;
+        margin-bottom: 30px;
+    }
+    .general-listing .img-list {
+        flex: 2;
+    }
+    .general-listing .img-list .image-holder {
+        height: 100%;
+    }
+    .general-listing .listing-content {
+        flex: 3;
+        padding-left: 20px;
+        align-self: center;
+    }
+    .general-listing .image-holder img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+}
+
+/**********************mehul**************/
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .custom-padding {
+        margin: 0px;
+        padding: 0px 7px !important;
+    }
+    .custom-container {
+        max-width: 95% !important
+    }
+}
+
+}
