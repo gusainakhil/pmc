@@ -85,6 +85,14 @@ usort($datesArray, function($a, $b) {
   .data-table th { background-color: #f8f9fa; position: sticky; top: 0; z-index: 10; }
   .data-table .desc { text-align: left; }
   .loading { text-align: center; padding: 20px; font-size: 16px; color: #6c757d; }
+  .report-sheet {
+    page-break-after: always;
+    break-after: page;
+  }
+  .report-sheet:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
 
   /* Print styles */
   @media print {
@@ -185,12 +193,6 @@ usort($datesArray, function($a, $b) {
             foreach ($datesArray as $dateObj) {
               $currentDate = $dateObj->format("Y-m-d");
 
-              // 💡 IMPORTANT: reset per-day variables here
-              $dayToken = null;         // <-- ensures token doesn't carry over to other dates
-              $division = '-';
-              $station = '-';
-              $contractor = '-';
-
               $query = "SELECT 
                 bap.paramName AS task, 
                 bp.db_pagename AS Description_of_Items, 
@@ -213,22 +215,30 @@ usort($datesArray, function($a, $b) {
               WHERE 
                 DATE(bas.created_date) = '{$conn->real_escape_string($currentDate)}'
                 AND bas.db_surveyStationId = '{$conn->real_escape_string($station_id)}'
-              ORDER BY bas.db_surveyPageId ASC";
+              ORDER BY bas.tokenId ASC, bas.db_surveyPageId ASC";
 
               $result = $conn->query($query);
 
-              $tasks = [];
-              $auditors = [
-                'shift_1' => [],
-                'shift_2' => [],
-                'shift_3' => []
-              ];
+              $reportsByToken = [];
 
               if ($result && $result->num_rows > 0) {
                 while ($row = $result->fetch_assoc()) {
-                  // store FIRST token for the day only
-                  if ($dayToken === null && !empty($row['tokenId'])) {
-                    $dayToken = $row['tokenId'];
+                  $tokenId = trim((string)($row['tokenId'] ?? ''));
+                  $tokenKey = ($tokenId !== '') ? $tokenId : '__NO_TOKEN__';
+
+                  if (!isset($reportsByToken[$tokenKey])) {
+                    $reportsByToken[$tokenKey] = [
+                      'tokenId' => ($tokenId !== '' ? $tokenId : '-'),
+                      'division' => '-',
+                      'station' => '-',
+                      'contractor' => '-',
+                      'tasks' => [],
+                      'auditors' => [
+                        'shift_1' => [],
+                        'shift_2' => [],
+                        'shift_3' => []
+                      ]
+                    ];
                   }
 
                   $task = trim($row['Description_of_Items']);
@@ -236,20 +246,16 @@ usort($datesArray, function($a, $b) {
                   $frequency = $row['Frequency'];
                   $status = ($row['Quality_of_done_work'] == 1 ? 'Y' : 'N');
 
-                  // Expecting paramName like "Shift 1", "Shift 2", "Shift 3"
-                  $shift = strtolower(str_replace(' ', '_', $row['task'])); // shift_1 / shift_2 / shift_3
-                  if (!in_array($shift, ['shift_1','shift_2','shift_3'])) {
-                    // fallback if paramName is unexpected; do not break table
+                  $shift = strtolower(str_replace(' ', '_', $row['task']));
+                  if (!in_array($shift, ['shift_1', 'shift_2', 'shift_3'])) {
                     $shift = 'shift_1';
                   }
 
                   $auditorName = $row['auditor_name'];
-
-                  // Unique by task + percentage
                   $uniqueTaskKey = $task . '||' . $percentage;
 
-                  if (!isset($tasks[$uniqueTaskKey])) {
-                    $tasks[$uniqueTaskKey] = [
+                  if (!isset($reportsByToken[$tokenKey]['tasks'][$uniqueTaskKey])) {
+                    $reportsByToken[$tokenKey]['tasks'][$uniqueTaskKey] = [
                       'task' => $task,
                       'quantity' => 'As Available',
                       'frequency' => $frequency,
@@ -261,20 +267,26 @@ usort($datesArray, function($a, $b) {
                     ];
                   }
 
-                  $tasks[$uniqueTaskKey][$shift] = $status;
+                  $reportsByToken[$tokenKey]['tasks'][$uniqueTaskKey][$shift] = $status;
 
-                  // Track auditors per shift (avoid duplicates)
-                  if (!in_array($auditorName, $auditors[$shift]) && !empty($auditorName)) {
-                    $auditors[$shift][] = $auditorName;
+                  if (!in_array($auditorName, $reportsByToken[$tokenKey]['auditors'][$shift]) && !empty($auditorName)) {
+                    $reportsByToken[$tokenKey]['auditors'][$shift][] = $auditorName;
                   }
 
-                  // Store division/station/org from row
-                  $division = $row['division_name'];
-                  $station = $row['station_name'];
-                  $contractor = $row['organisation_name'];
+                  $reportsByToken[$tokenKey]['division'] = $row['division_name'];
+                  $reportsByToken[$tokenKey]['station'] = $row['station_name'];
+                  $reportsByToken[$tokenKey]['contractor'] = $row['organisation_name'];
                 }
+
+                foreach ($reportsByToken as $tokenReport):
+                  $tasks = $tokenReport['tasks'];
+                  $auditors = $tokenReport['auditors'];
+                  $division = $tokenReport['division'];
+                  $station = $tokenReport['station'];
+                  $contractor = $tokenReport['contractor'];
+                  $dayToken = $tokenReport['tokenId'];
                 ?>
-                <div class="performance-container mb-4">
+                <div class="performance-container report-sheet mb-4">
                   <div class="report-header">
                     <h3 class="text-center">
                       Daily performance log book for cleaning schedule for environmental sanitation,
@@ -342,6 +354,7 @@ usort($datesArray, function($a, $b) {
                   </div>
                 </div>
                 <?php
+                endforeach;
               } // end if data exists
             } // end foreach loop
             ?>
